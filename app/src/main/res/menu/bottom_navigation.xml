@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/people"
+    android:icon="@drawable/ic_baseline_people_24"/>
+    <item
+        android:id="@+id/mike"
+        android:icon="@drawable/ic_baseline_mic_24"/>
+    <item
+        android:id="@+id/callend"
+        android:icon="@drawable/ic_baseline_call_end_24"/>
+    <item
+        android:id="@+id/videocam"
+        android:icon="@drawable/ic_videocam_24px"/>
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_baseline_chat_24" />
+
+</menu>
